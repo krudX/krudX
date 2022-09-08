@@ -1,1 +1,0 @@
-<img src='https://github.com/krudX/krudX/blob/main/github_banner.png'>
