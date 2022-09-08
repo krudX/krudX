@@ -1,7 +1,7 @@
 <img class='banner' src='https://github.com/krudX/krudX/blob/main/github_banner.png'>
 
 ### Hi there 👋
-I'm Prathamesh, a creative and self-starting Front-End Developer with experience building stable responsive websites and web apps in fast-paced, collaborative environments. Highly skilled in HTML/CSS/JavaScript/Bootstrap and working knowledge of Adobe XD and Figma. I'm also a self-taught UI Designer.
+I'm Prathamesh, a creative and self-starting Front-End Developer with experience building stable responsive websites and web apps in fast-paced, collaborative environments. Highly skilled in HTML/CSS/JavaScript/Bootstrap. I'm also a self-taught UI Designer with working knowledge of Adobe XD and Figma.
 
 <h1>Skills</h1>
 <p>
