@@ -1,12 +1,3 @@
-<style>
-    img {
-        display: inline-block;
-    }
-    .banner {
-        display: block;
-    }
-</style>
-
 <img class='banner' src='https://github.com/krudX/krudX/blob/main/github_banner.png'>
 
 ### Hi there 👋
